@@ -1,6 +1,19 @@
 # Personalinformation
 Patika Bootcampinin ilk ödevi olarak kişisel bilgilerden oluşan basit bir HTML sitesi oluşturdum.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Genel Yapı:
 
 Sayfanızın temel yapısını oluşturmak için HTML5 doküman yapısını kullanın.
